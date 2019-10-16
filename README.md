@@ -1,3 +1,5 @@
-# Frontend Collections
-
-* [九大排序算法 - 来源微信公众号](https://mp.weixin.qq.com/s/wqebx4DoeZ-mqA-4uzyFGQ)
+* [Event Loop](https://github.com/YangYmimi/es6-collections/issues/1)
+* [如何将数组扁平化并去除重复元素?](https://github.com/YangYmimi/es6-collections/issues/2)
+* [JS 中属性获取的方式和区别](https://github.com/YangYmimi/es6-collections/issues/3)
+* [函数防抖和节流](https://github.com/YangYmimi/es6-collections/issues/4)
+* [几个JS基础题目](https://mp.weixin.qq.com/s/t1ieuB4O5lnHVf0q9TjyKA)
