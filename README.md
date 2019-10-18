@@ -2,9 +2,9 @@
 
 * [8个有趣的 JS 复习题](https://mp.weixin.qq.com/s/t1ieuB4O5lnHVf0q9TjyKA)
 * [说说看 null 和 undefined 的区别？内存上的区别？]()
-* [JS 属性获取（遍历）的相关方法？ 之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
+* [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
 * [JS 常见数组操作方法？常见字符串操作方法]()
-* [JS 事件循环](https://github.com/YangYmimi/frontend-lookback/issues/1)
+* [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
 
 ### es6 +
 
@@ -12,9 +12,9 @@
 
 ### Advanced JS
 
-* [函数防抖和节流？ 作用？ 实现一个简单的防抖和节流函数？ lodash/underscore 的实现？](https://github.com/YangYmimi/frontend-lookback/issues/4)
-* [JS 执行栈什么？JS 主线程？宏任务？微任务？异步执行机制是什么？]()
-* [JS 事件流]()
+* [函数防抖和节流？作用？实现一个简单的防抖和节流函数 lodash/underscore 的实现？](https://github.com/YangYmimi/frontend-lookback/issues/4)
+* [浏览器事件机制？主线程？宏任务？微任务？](https://github.com/YangYmimi/frontend-lookback/issues/6)
+* [异步执行机制是什么？]()
 * [JS 中浅拷贝？深拷贝？如何手写一个浅拷贝？如何手写一个深拷贝？]()
 * [闭包？应用？]()
 * [this？bind？call？apply？如何模拟实现？]()
@@ -36,6 +36,7 @@
 ### 前端性能优化
 
 * [如何利用缓存策略直接减少对前端数据的请求量？Service Worker？]()
+* [前端角度说说缓存？]()
 
 ### 网络
 
