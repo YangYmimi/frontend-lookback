@@ -1,14 +1,15 @@
 ### Basic JS
 
 * [8个有趣的 JS 复习题](https://mp.weixin.qq.com/s/t1ieuB4O5lnHVf0q9TjyKA)
-* [说说看 null 和 undefined 的区别？内存上的区别？]()
+* [说说看 null 和 undefined 的区别？内存上的区别？](https://github.com/YangYmimi/frontend-lookback/issues/7)
 * [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
-* [JS 常见数组操作方法？常见字符串操作方法]()
+* [JS 常见数组操作方法？常见字符串操作方法？]()
 * [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
 
 ### es6 +
 
 * [数组扁平化后去重？](https://github.com/YangYmimi/frontend-lookback/issues/2)
+* [es6+ 字符串新增的方法？对象新增的方法？数组新增方法？]()
 
 ### Advanced JS
 
