@@ -1,15 +1,16 @@
 ### Basic JS
 
-* [8个有趣的 JS 复习题](https://mp.weixin.qq.com/s/t1ieuB4O5lnHVf0q9TjyKA)
+* [8个有趣的 JS 复习题](https://github.com/YangYmimi/frontend-lookback/issues/11)
 * [说说看 null 和 undefined 的区别？内存上的区别？](https://github.com/YangYmimi/frontend-lookback/issues/7)
 * [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
-* [JS 常见数组操作方法？常见字符串操作方法？]()
+* [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 * [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
 
 ### es6 +
 
 * [数组扁平化后去重？](https://github.com/YangYmimi/frontend-lookback/issues/2)
 * [es6+ 字符串新增的方法？对象新增的方法？数组新增方法？]()
+* [利用实现发布-订阅模式实现 EventEmitter()？](https://github.com/YangYmimi/frontend-lookback/issues/9)
 
 ### Advanced JS
 
@@ -18,6 +19,7 @@
 * [异步执行机制是什么？]()
 * [JS 中浅拷贝？深拷贝？如何手写一个浅拷贝？如何手写一个深拷贝？]()
 * [闭包？应用？]()
+* [记录一个闭包的面试题](https://github.com/YangYmimi/frontend-lookback/issues/8)
 * [this？bind？call？apply？如何模拟实现？]()
 * [JS 函数柯里化？应用？手写一个简单的柯里化函数？]()
 * [偏函数？]()
@@ -25,9 +27,9 @@
 * [函数组合？]()
 * [JS 继承的方式？]()
 
-### 前端构建：
+### 前端构建
 
-* [yarn 和 npm 的区别？]()
+* [yarn 和 npm 的区别？](https://github.com/YangYmimi/frontend-lookback/issues/12)
 * [依赖管理的方式？]()
 * [模块化方案有哪些？分别介绍一下？]()
 * [简单介绍一下 babel 的工作原理？]()
@@ -39,18 +41,19 @@
 * [如何利用缓存策略直接减少对前端数据的请求量？Service Worker？]()
 * [前端角度说说缓存？]()
 
-### 网络
+### 网络安全
 
 * [简单介绍一下 http 和 https 的特征？为什么说 http 是不怎么安全的？]()
-* [TCP/IP三次握手四次挥手？为什么说TCP/IP协议是可靠协议？]
-* [UDP协议为什么是不可靠的？]
-* [XSS？CSRF？怎么预防？]()
+* [TCP/IP 三次握手四次挥手？]()
+* [为什么说 TCP/IP 协议是可靠协议？而 UDP 协议是不可靠协议？]()
+* [XSS？CSRF？怎么预防？](https://github.com/YangYmimi/frontend-lookback/issues/10)
 
 ### Vue 相关
 
-* [vue生命周期？各周期的作用？]()
-* [vue-router生命周期？各周期的作用？]()
+* [vue 生命周期？各周期的作用？]()
 * [keep-alive？]
+* [vue-router 生命周期？各周期的作用？]()
+* [vue-router 导航钩子？]()
 
 ### 前端架构
 
