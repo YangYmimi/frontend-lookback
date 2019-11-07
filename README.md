@@ -9,7 +9,7 @@
 ### es6 +
 
 * [数组扁平化后去重？](https://github.com/YangYmimi/frontend-lookback/issues/2)
-* [es6+ 字符串新增的方法？对象新增的方法？数组新增方法？]()
+* [es6+ 字符串新增的方法？对象新增的方法？数组新增方法？](https://github.com/YangYmimi/frontend-lookback/issues/15)
 * [利用实现发布-订阅模式实现 EventEmitter()？](https://github.com/YangYmimi/frontend-lookback/issues/9)
 
 ### Advanced JS
