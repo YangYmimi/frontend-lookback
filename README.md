@@ -51,9 +51,13 @@
 ### Vue 相关
 
 * [vue 生命周期？各周期的作用？]()
-* [keep-alive？]
+* [keep-alive？]()
 * [vue-router 生命周期？各周期的作用？]()
 * [vue-router 导航钩子？]()
+
+### 算法
+
+* [排序算法](https://github.com/YangYmimi/frontend-lookback/issues/16)
 
 ### 前端架构
 
