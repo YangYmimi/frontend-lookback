@@ -1,3 +1,7 @@
+### CSS
+
+* [对CSS盒子模型的理解？]()
+
 ### Basic JS
 
 * [8个有趣的 JS 复习题](https://github.com/YangYmimi/frontend-lookback/issues/11)
@@ -5,22 +9,24 @@
 * [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
 * [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 * [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
+* [谈谈使用原生 JS 对 DOM 进行操作的方法有哪些？]()
 
 ### es6 +
 
 * [数组扁平化后去重？](https://github.com/YangYmimi/frontend-lookback/issues/2)
 * [es6+ 字符串新增的方法？对象新增的方法？数组新增方法？](https://github.com/YangYmimi/frontend-lookback/issues/15)
 * [利用实现发布-订阅模式实现 EventEmitter()？](https://github.com/YangYmimi/frontend-lookback/issues/9)
+* [谈谈const和let与var的区别？]
 
 ### Advanced JS
 
 * [函数防抖和节流？作用？实现一个简单的防抖和节流函数 lodash/underscore 的实现？](https://github.com/YangYmimi/frontend-lookback/issues/4)
 * [浏览器事件机制？主线程？宏任务？微任务？](https://github.com/YangYmimi/frontend-lookback/issues/6)
-* [异步执行机制是什么？]()
+* [异步执行机制是什么？Promise和setTimeout的区别？]()
 * [JS 中浅拷贝？深拷贝？如何手写一个浅拷贝？如何手写一个深拷贝？]()
 * [闭包？应用？]()
 * [记录一个闭包的面试题](https://github.com/YangYmimi/frontend-lookback/issues/8)
-* [this？bind？call？apply？如何模拟实现？]()
+* [bind？call？apply？三者的使用区别？如何模拟实现？]()
 * [JS 函数柯里化？应用？手写一个简单的柯里化函数？]()
 * [偏函数？]()
 * [函数记忆？实现一个简单的 memorize 函数？]()
@@ -40,6 +46,8 @@
 
 * [如何利用缓存策略直接减少对前端数据的请求量？Service Worker？]()
 * [前端角度说说缓存？]()
+* [对浏览器缓存的了解？]()
+* [Webpack中loader和plugin的区别？一些常用的配置项？]()
 
 ### 网络安全
 
@@ -50,10 +58,13 @@
 
 ### Vue
 
+* [Vue 响应式原理？]()
 * [对 Vue 生命周期的理解？](https://github.com/YangYmimi/frontend-lookback/issues/17)
 * [对 Vue 中 keep-alive 的理解？](https://github.com/YangYmimi/frontend-lookback/issues/18)
-* [Vue-Router 生命周期？各周期的作用？]()
-* [Vue-Router 导航钩子？]()
+* [分别谈谈对Vue3和Vue2的响应式系统？]
+* [对 Vue-Router 生命周期的理解？]()
+* [Vue-Router 导航钩子有哪些？分别的作用？]()
+* [Vue-Router 的基于什么实现的？]()
 
 ### 算法
 
