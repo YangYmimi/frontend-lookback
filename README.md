@@ -1,6 +1,7 @@
 ### CSS
 
 * [说说CSS盒子模型？](https://github.com/YangYmimi/frontend-lookback/issues/20)
+* [谈谈回流和重绘？如何避免这些？]()
 
 ### Basic JS
 
@@ -53,7 +54,7 @@
 ### 网络安全
 
 * [介绍一下 HTTP 和 HTTPS 的特征？为什么说 HTTP 是不怎么安全的？](https://github.com/YangYmimi/frontend-lookback/issues/19)
-* [TCP/IP 三次握手四次挥手？]()
+* [TCP协议？三次握手四次挥手？]()
 * [为什么说 TCP/IP 协议是可靠协议？而 UDP 协议是不可靠协议？]()
 * [XSS？CSRF？怎么预防？](https://github.com/YangYmimi/frontend-lookback/issues/10)
 
@@ -62,6 +63,7 @@
 * [Vue 响应式原理？]()
 * [对 Vue 生命周期的理解？](https://github.com/YangYmimi/frontend-lookback/issues/17)
 * [对 Vue 中 keep-alive 的理解？](https://github.com/YangYmimi/frontend-lookback/issues/18)
+* [Vue 中组件通信的方式？](https://github.com/YangYmimi/frontend-lookback/issues/21)
 * [分别谈谈对 Vue3 和 Vue2 的响应式系统？]()
 * [对 Vue-Router 生命周期的理解？]()
 * [Vue-Router 导航钩子有哪些？分别的作用？]()
