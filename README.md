@@ -6,6 +6,7 @@
 ### 奇技淫巧
 
 * [记录CSS一些常用代码](https://github.com/YangYmimi/frontend-lookback/issues/22)
+* [使用requestAnimationFrame平滑滚动到页头](https://github.com/YangYmimi/frontend-lookback/issues/23)
 
 ### Basic JS
 
