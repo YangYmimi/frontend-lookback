@@ -53,11 +53,11 @@
 ### 前端性能优化
 
 * [如何利用缓存策略直接减少对前端数据的请求量？Service Worker？]()
-* [前端角度说说缓存？]()
-* [对浏览器缓存的了解？]()
+* [前端角度说说浏览器缓存？]()
 
 ### 网络安全
 
+* [老生常谈 - Get和Post的比较](https://github.com/YangYmimi/frontend-lookback/issues/24)
 * [介绍一下 HTTP 和 HTTPS 的特征？为什么说 HTTP 是不怎么安全的？](https://github.com/YangYmimi/frontend-lookback/issues/19)
 * [TCP协议？三次握手四次挥手？]()
 * [为什么说 TCP/IP 协议是可靠协议？而 UDP 协议是不可靠协议？]()
