@@ -2,6 +2,7 @@
 
 * [说说CSS盒子模型？](https://github.com/YangYmimi/frontend-lookback/issues/20)
 * [谈谈回流和重绘？如何避免这些？]()
+* [移动端1像素问题？]()
 
 ### 奇技淫巧
 
@@ -52,8 +53,8 @@
 
 ### 前端性能优化
 
-* [如何利用缓存策略直接减少对前端数据的请求量？Service Worker？]()
-* [前端角度说说浏览器缓存？]()
+* [浏览器缓存？]()
+* [如何利用缓存策略直接减少对前端数据的请求量？]()
 
 ### 网络安全
 
@@ -62,17 +63,6 @@
 * [TCP协议？三次握手四次挥手？]()
 * [为什么说 TCP/IP 协议是可靠协议？而 UDP 协议是不可靠协议？]()
 * [XSS？CSRF？怎么预防？](https://github.com/YangYmimi/frontend-lookback/issues/10)
-
-### Vue
-
-* [Vue 响应式原理？]()
-* [对 Vue 生命周期的理解？](https://github.com/YangYmimi/frontend-lookback/issues/17)
-* [对 Vue 中 keep-alive 的理解？](https://github.com/YangYmimi/frontend-lookback/issues/18)
-* [Vue 中组件通信的方式？](https://github.com/YangYmimi/frontend-lookback/issues/21)
-* [分别谈谈对 Vue3 和 Vue2 的响应式系统？]()
-* [Vue-Router 的实现原理？]()
-* [对 Vue-Router 生命周期的理解？]()
-* [Vue-Router 导航钩子有哪些？分别的作用？]()
 
 ### 算法
 
