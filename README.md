@@ -2,7 +2,7 @@
 
 * [说说CSS盒子模型？](https://github.com/YangYmimi/frontend-lookback/issues/20)
 * [谈谈回流和重绘？如何避免这些？]()
-* [移动端1像素问题？]()
+* [移动端1px问题？](https://github.com/YangYmimi/frontend-lookback/issues/25)
 
 ### 奇技淫巧
 
@@ -17,6 +17,7 @@
 * [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 * [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
 * [谈谈使用原生 JS 对 DOM 进行操作的方法有哪些？]()
+* [axios, Fetch, xhr三者的对比？]()
 
 ### es6 +
 
