@@ -51,11 +51,12 @@
 * [简单介绍一下 babel 的工作原理？]()
 * [sass 和 less 和 scss 的区别？]()
 * [简单介绍一下 gulp 和 grunt 和 rollup 之间的区别和作用？]()
-* [Webpack中loader和plugin的区别？一些常用的配置项？]()
+* [Webpack 中 loader 和 plugin 的区别以及一些常用的 loader 和 plugin 的作用？](https://github.com/YangYmimi/frontend-lookback/issues/27)
+* [Webpack 中热加载实现的原理？](https://github.com/YangYmimi/frontend-lookback/issues/26)
 
 ### 前端性能优化
 
-* [浏览器缓存？]()
+* [浏览器缓存机制？]()
 * [如何利用缓存策略直接减少对前端数据的请求量？]()
 
 ### 网络安全
