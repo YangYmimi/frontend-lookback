@@ -16,7 +16,6 @@
 - [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
 - [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 - [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
-- [谈谈使用原生 JS 对 DOM 进行操作的方法有哪些？]()
 - [axios, Fetch, xhr 三者的对比？]()
 
 ### es6 +
@@ -35,12 +34,11 @@
 - [闭包？应用？]()
 - [记录一个闭包的面试题](https://github.com/YangYmimi/frontend-lookback/issues/8)
 - [bind？call？apply？三者的使用区别？如何模拟实现？]()
+- [什么是偏函数？](https://github.com/YangYmimi/frontend-lookback/issues/30)
 - [JS 函数柯里化？应用？手写一个简单的柯里化函数？]()
-- [偏函数？]()
 - [函数记忆？实现一个简单的 memorize 函数？]()
 - [函数组合？]()
 - [JS 继承的方式？]()
-- [说说看原型和原型链？]()
 - [JS 中内存分配机制？]()
 
 ### 前端构建
