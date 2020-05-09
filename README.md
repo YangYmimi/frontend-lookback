@@ -69,6 +69,10 @@
 
 - [排序算法](https://github.com/YangYmimi/frontend-lookback/issues/16)
 
+### 工具类
+
+- [emojo 在 git 提交中的使用](https://github.com/YangYmimi/frontend-lookback/issues/31)
+
 ### 前端架构
 
 1. 开发规范设计？
