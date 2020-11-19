@@ -3,6 +3,7 @@
 - [说说 CSS 盒子模型？](https://github.com/YangYmimi/frontend-lookback/issues/20)
 - [谈谈回流和重绘](https://github.com/YangYmimi/frontend-lookback/issues/28)
 - [移动端 1px 问题？](https://github.com/YangYmimi/frontend-lookback/issues/25)
+- [什么是BFC？如何实现一个BFC？]()
 
 ### 奇技淫巧
 
@@ -16,7 +17,6 @@
 - [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
 - [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 - [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
-- [axios, Fetch, xhr 三者的对比？]()
 
 ### es6 +
 
@@ -64,6 +64,11 @@
 - [TCP 协议？三次握手四次挥手？]()
 - [为什么说 TCP/IP 协议是可靠协议？而 UDP 协议是不可靠协议？]()
 - [XSS？CSRF？怎么预防？](https://github.com/YangYmimi/frontend-lookback/issues/10)
+
+### 框架
+
+- [React 组件生命周期介绍？]()
+- [Vue3 改动了哪些功能？]()
 
 ### 算法
 
