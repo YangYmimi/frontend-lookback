@@ -17,6 +17,7 @@
 - [JS 属性获取（遍历）的相关方法？之间的区别？](https://github.com/YangYmimi/frontend-lookback/issues/3)
 - [JS 常见数组操作方法？常见字符串操作方法？](https://github.com/YangYmimi/frontend-lookback/issues/13)
 - [JS 中堆内存和栈内存？](https://github.com/YangYmimi/frontend-lookback/issues/5)
+- [介绍下 JSON.stringify()？](https://github.com/YangYmimi/frontend-lookback/issues/34)
 
 ### es6 +
 
@@ -30,7 +31,7 @@
 - [函数防抖和节流？作用？实现一个简单的防抖和节流函数 lodash/underscore 的实现？](https://github.com/YangYmimi/frontend-lookback/issues/4)
 - [浏览器事件机制？主线程？宏任务？微任务？](https://github.com/YangYmimi/frontend-lookback/issues/6)
 - [异步执行机制是什么？Promise 和 setTimeout 的区别？]()
-- [JS 中浅拷贝？深拷贝？如何手写一个浅拷贝？如何手写一个深拷贝？]()
+- [JS 中浅拷贝？深拷贝？如何手写一个浅拷贝？如何手写一个深拷贝？](https://github.com/YangYmimi/frontend-lookback/issues/36)
 - [闭包？应用？]()
 - [记录一个闭包的面试题](https://github.com/YangYmimi/frontend-lookback/issues/8)
 - [bind？call？apply？三者的使用区别？如何模拟实现？]()
@@ -41,7 +42,7 @@
 - [JS 继承的方式？]()
 - [JS 中内存分配机制？]()
 
-### 前端构建
+### 前端构建_工程化
 
 - [yarn 和 npm 的区别？](https://github.com/YangYmimi/frontend-lookback/issues/12)
 - [依赖管理的方式？]()
@@ -51,6 +52,7 @@
 - [简单介绍一下 gulp 和 grunt 和 rollup 之间的区别和作用？]()
 - [Webpack 中 loader 和 plugin 的区别以及一些常用的 loader 和 plugin 的作用？](https://github.com/YangYmimi/frontend-lookback/issues/27)
 - [Webpack 中热加载实现的原理？](https://github.com/YangYmimi/frontend-lookback/issues/26)
+- [什么是 Monorepo？什么是 lerna？工程化的体现](https://github.com/YangYmimi/frontend-lookback/issues/33)
 
 ### 前端性能优化
 
@@ -69,6 +71,7 @@
 
 - [React 组件生命周期介绍？]()
 - [Vue3 改动了哪些功能？]()
+- [介绍 React 如何做优化？](https://github.com/YangYmimi/frontend-lookback/issues/35)
 
 ### 算法
 
